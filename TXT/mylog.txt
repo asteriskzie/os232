@@ -5,4 +5,4 @@ ZCZC W00 20 L03 GitHub related
 ZCZC W00 10 L04 GitHub Pages related
 ZCZC W00 30 L05 QUIZ
 ZCZC W00 20 L24 learn basic regex from YouTube
-ZCSC W00 60 L33 listening to TEDEx from Linus, the inventor of Linux and Git 
+ZCSC W00 60 L32 listening to a TEDEx episode featuring Linus, the inventor of Linux and Git 
