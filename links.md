@@ -8,4 +8,6 @@ permalink: LINKS/
 Some easy-to-use commands you can use to inspect hardware. 
 These commands will help you list PCI devices, view information about your CPU, and more.
 <br>
+* [Regular Expressions - Enough to be Dangerous](https://youtu.be/bgBWp9EIlMM?si=QosE9_pv0LuRJ9vD)
+Simple and straightforward intro to regex. 
 <hr>
