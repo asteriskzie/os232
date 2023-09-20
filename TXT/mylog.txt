@@ -12,4 +12,6 @@ ZCZC W01 200 L02 OS Offline Class
 ZCZC W01 80 L05 Week 1 Quiz related 
 ZCZC W01 10 L06 GSGS when error occurs in week 1 assignment
 ZCZC W02 300 L09 Week 2 assignment
-ZCZC W03 20 L05 Week 2 Quiz 
+ZCZC W03 20 L05 Week 2 Quiz
+ZCZC W03 100 L02 Attend Tuesday class
+ZCZC W03 30 L06 Reading slides 
