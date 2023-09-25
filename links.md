@@ -18,6 +18,10 @@ These commands will help you list PCI devices, view information about your CPU, 
 * [An introduction to Scripting](https://astrobiomike.github.io/unix/scripting) --- It helps to get familiar with scripting :D
 
 ### WEEK 3
+* [Files & File Systems](https://www.youtube.com/watch?v=KN8YgJnShPM) --- 
+Fun explaination about Files & File Systems made by well-known Crash Course :D 
 
+* [Makefile Tutorial] (https://makefiletutorial.com/) ---
+Makefile appears in Week 3 Pop Quiz. This website helps me understand what is it and most importantly how to make it. 
 <hr>
 
