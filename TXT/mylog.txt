@@ -17,3 +17,6 @@ ZCZC W03 100 L02 Attend Tuesday class
 ZCZC W03 30 L06 Reading slides 
 ZCZC W03 120 L09 Week 3 assignment 
 ZCZC W03 100 L02 Attend Thu class
+ZCZC W04 100 L02 Atten Tuesday class
+ZCZC W04 30 L09 Week 4 assignment
+ZCZC W04 90 Week 4 Quiz related
