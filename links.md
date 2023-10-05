@@ -25,3 +25,5 @@ Fun explaination about Files & File Systems made by well-known Crash Course :D
 Makefile appears in Week 3 Pop Quiz. This website helps me understand what is it and most importantly how to make it. 
 <hr>
 
+### WEEK 4 
+* [What is virtual memory? - Gray explains] (https://www.youtube.com/watch?v=2quKyPnUShQ) --- Clear and concise explaination about virtual memory.  
