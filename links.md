@@ -32,4 +32,5 @@ Makefile appears in Week 3 Pop Quiz. This website helps me understand what is it
 * [Week 05 Assignment](https://osp4diss.vlsm.org/W05-01.html) --- The link to this week's assignment. EXTREMELY helpful. Don't forget to finish your assignment and git push. Git. Push.
 * [ChatGPT] (https://chat.openai.com/share/4373dad9-71f4-48ad-87c9-4168f6c1b9fb) --- It helps me debugging my C code for doing the assignment. I tried GSGS but at the end it's chatGPT who helps <3  
 * [Bubble Sort - Data Structure and Algorithm Tutorials] (https://www.geeksforgeeks.org/bubble-sort/) --- Do you think you know how to sort? No, you don't. Just look at the implementation and get the C memory sorting stuff done. 
-* [Diffchecker] (https://www.diffchecker.com/text-compare/) --- I use this site to check whether my C program output is the same as the expected output.    
+* [Diffchecker] (https://www.diffchecker.com/text-compare/) --- I use this site to check whether my C program output is the same as the expected output.
+* [What is Virtual Memory?] (https://www.codecademy.com/resources/blog/virtual-memory/) --- This article by Codecademy is a nice 'virtual memory for dummy'. It explain what is vm from developer's POV.  
