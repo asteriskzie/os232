@@ -28,3 +28,5 @@ ZCZC W06 240 L06 Studying for OS Midterm
 ZCZC W06 100 L02 OS Offline Class
 ZCZC W06 60 L09 OS assignment 
 ZCZC W06 100 L02 OS Offline Class again
+ZCZC W07 100 L02 OS Offline Class
+ZCZC W07 120 L09 OS assignment
