@@ -30,3 +30,5 @@ ZCZC W06 60 L09 OS assignment
 ZCZC W06 100 L02 OS Offline Class again
 ZCZC W07 100 L02 OS Offline Class
 ZCZC W07 120 L09 OS assignment
+ZCZC W07 60 L05 Quiz week 7 + studying speedrun
+ZCZC W07 30 L09 Recheck and fix OS assignment + pop quiz 
