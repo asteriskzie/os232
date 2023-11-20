@@ -40,4 +40,11 @@ Makefile appears in Week 3 Pop Quiz. This website helps me understand what is it
 
 ### WEEK 7 
 * [Week 07 Assignment](https://osp4diss.vlsm.org/W07-01.html) --- The assignment is not that hard as long as you follow along. If you don't understand anything don't hestitate to contact your friends or the lecturer. 
-* [Bing AI](https://www.bing.com/search) --- Alternative to ChatGPT, it helps me studying for quiz and doing this week's Pop Quiz. 
+* [Bing AI](https://www.bing.com/search) --- Alternative to ChatGPT, it helps me studying for quiz and doing this week's Pop Quiz.
+
+### WEEK 8 
+* [Week 08 Assignment](https://osp4diss.vlsm.org/W08-01.html) --- the first assignment of LFS! Make sure to follow each steps carefully. Might looks scary at first, but you can do it :D Even for UTM users (like me), just follow the instructions in the assignment page, ORI LFS page, and the Kernotex video. 
+* [Kernotex LFS Tutorial](https://www.youtube.com/watch?v=uggsnHSELos&list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315&index=7) --- the tutorial provide clear guidance on how to do this week's assignment. Follow that the guy do there. However, some steps differ a little, make sure to compare with the OS assignment page and yforku. There priority to follow: OS Assignment page, yforku, Kernotex, LFS page. 
+* [ORI LFS Tutorial](https://www.linuxfromscratch.org/~xry111/lfs/view/arm64/chapter05/gcc-libstdc++.html) --- this is the main tutorial for LFS. 
+* [KM LFS Tutorial](https://www.linuxfromscratch.org/lfs/view/12.0/chapter05/glibc.html) --- this is supposed to be for UTM users. However, I think it is suggested that we follow the ORI one. Well, idk why Pak RMS Provide this link too for us UTM users. 
+* [yforku](https://yforku.github.io/os232/LFS/#idx01) --- this github page list the differences between the ORI and KW LFS tutorial. When in doubt, follow what yforku said. 

@@ -31,4 +31,9 @@ ZCZC W06 100 L02 OS Offline Class again
 ZCZC W07 100 L02 OS Offline Class
 ZCZC W07 120 L09 OS assignment
 ZCZC W07 60 L05 Quiz week 7 + studying speedrun
-ZCZC W07 30 L09 Recheck and fix OS assignment + pop quiz 
+ZCZC W07 30 L09 Recheck and fix OS assignment + pop quiz
+ZCZC W08 100 L02 OS Offline Class
+ZCZC W08 100 L02 OS Offline Class again 
+ZCZC W08 60 L05 Quiz week 8 + preparation 
+ZCZC W08 240 L09 OS Assignment + pop quiz
+ZCZC W08 60 L32 watch kernotex LFS video 
