@@ -40,3 +40,5 @@ ZCZC W08 60 L32 watch kernotex LFS video
 ZCZC W09 200 L02 Offline Class
 ZCZC W09 180 L09 OS Assignment
 ZCZC W09 30 L05 OS Quiz 
+ZCZC W10 600 L09 OS Assignment week 10 :DD
+ZCZC W10 200 L02 Offline Class  

@@ -50,5 +50,11 @@ Makefile appears in Week 3 Pop Quiz. This website helps me understand what is it
 * [yforku](https://yforku.github.io/os232/LFS/#idx01) --- this github page list the differences between the ORI and KW LFS tutorial. When in doubt, follow what yforku said.
 
 ### WEEK 9
-* [Week 9 Assignment] (https://osp4diss.vlsm.org/W09-04.html) --- This is the assignment link. Good luck!!!!! :D
+* [Week 9 Assignment](https://osp4diss.vlsm.org/W09-04.html) --- This is the assignment link. Good luck!!!!! :D
 * [Scele](https://scele.cs.ui.ac.id/) --- For doing quiz etc  :DD
+
+### WEEEK 10 
+* [Week 10 Assignment](https://osp4diss.vlsm.org/W10-04.html) --- Final week UwU 
+* [Congrats](https://media.tenor.com/f_saBHiUTz0AAAAC/cute-cat.gif) --- We make it to the end!!!
+
+
